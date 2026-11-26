@@ -12,7 +12,7 @@ average = (grade1 + grade2 + grade3) / 3
 print("\nStudent:", name)
 print("Average:", average)
 
-if average >= 50:
+if average >= 60:
     print("Result: Passed!")
 else:
     print("Result: Failed!")
